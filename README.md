@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 ![Taylor's GitHub stats](https://github-readme-stats.vercel.app/api?username=thart003&theme=kacho_ga&show_icons=true)
 [![MasterHead](https://www.dualshockers.com/static/uploads/2022/02/brilliant-stars-charizard-1140x641.jpg)](github.com/thart003)
+<img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/LonelyIcyCusimanse-max-1mb.gif">
