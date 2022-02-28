@@ -28,10 +28,10 @@
 
 <p align="center">
 <a href="mailto: thart003@ucr.edu">
- <img src="https://img.shields.io/badge/-ritikpr307-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thart003@ucr.edu"/>
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_3pkMcbzRtnwIXPV6YVFfZjHLnVmJaVbFeA&usqp=CAU"/>
 </a>
 <a href="https://www.linkedin.com/in/taylorhart003/">
- <img src="https://img.shields.io/badge/-ritikrawal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/taylorhart003/"/>
+ <img src="https://images.unsplash.com/photo-1611944212129-29977ae1398c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bGlua2VkaW4lMjBsb2dvfGVufDB8fDB8fA%3D%3D&w=1000&q=80"/>
 </a>
 
 ![Taylor's GitHub stats](https://github-readme-stats.vercel.app/api?username=thart003&theme=kacho_ga&show_icons=true)
