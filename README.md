@@ -1,13 +1,11 @@
-<p align="center">
- 
-</p align="center">
+
 [![MasterHead](https://www.dualshockers.com/static/uploads/2022/02/brilliant-stars-charizard-1140x641.jpg)](github.com/thart003)
 
 <p align="center">
  I'm a full-stack software developer who also writes fictional novels. I'm a creative person who has chosen software development as a vocation. I love to work in teams to create dynamic, beautiful and functional computer applications.
 </p>
 
-<h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
+<h2 align="center">Technology Stack <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3HLbBAh4SeIPQj6jHzYSVy77B50sYplL4SA&usqp=CAU" width="50"></h2>
 
 <p align="center">
  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
@@ -35,6 +33,7 @@
 <a href="https://www.linkedin.com/in/taylorhart003/">
  <img src="https://img.shields.io/badge/-ritikrawal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/taylorhart003/"/>
 </a>
+
 ![Taylor's GitHub stats](https://github-readme-stats.vercel.app/api?username=thart003&theme=kacho_ga&show_icons=true)
 
 
