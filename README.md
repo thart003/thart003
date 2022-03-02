@@ -28,7 +28,7 @@
 
 <p align="center">
 <a href="mailto: thart003@ucr.edu">
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_3pkMcbzRtnwIXPV6YVFfZjHLnVmJaVbFeA&usqp=CAU"/>
+ <img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/mail_ru_logo_icon_147267.png"/>
 </a>
 <a href="https://www.linkedin.com/in/taylorhart003/">
  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZmT0xGr1uxOsx4Vrc78rgG8XKo4IYhOHgbA&usqp=CAU"/>
