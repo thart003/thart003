@@ -28,7 +28,7 @@
 
 <p align="center">
 <a href="mailto: thart003@ucr.edu">
- <img src="https://www.freepnglogos.com/uploads/email-png/email-messages-icon-16.png"/>
+ <img src="https://www.pikpng.com/pngl/m/58-581968_small-new-logo-email-transparent-clipart.png"/>
 </a>
 <a href="https://www.linkedin.com/in/taylorhart003/">
  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZmT0xGr1uxOsx4Vrc78rgG8XKo4IYhOHgbA&usqp=CAU"/>
