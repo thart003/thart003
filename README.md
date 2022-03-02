@@ -28,7 +28,7 @@
 
 <p align="center">
 <a href="mailto: thart003@ucr.edu">
- <img src="https://www.savvybusinessgals.com/wp-content/uploads/2016/09/email-icon.png"/>
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpytI_ZUw-F00qnoJfvSoW0sWIj3zJHb0M1nD6dBc4YrAKkd1ynpHfsX7rsZeegl-hJKw&usqp=CAU"/>
 </a>
 <a href="https://www.linkedin.com/in/taylorhart003/">
  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZmT0xGr1uxOsx4Vrc78rgG8XKo4IYhOHgbA&usqp=CAU"/>
