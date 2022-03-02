@@ -33,7 +33,7 @@
 <a href="https://www.linkedin.com/in/taylorhart003/">
  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZmT0xGr1uxOsx4Vrc78rgG8XKo4IYhOHgbA&usqp=CAU"/>
 </a>
-
+<p align="center">
 ![Taylor's GitHub stats](https://github-readme-stats.vercel.app/api?username=thart003&theme=kacho_ga&show_icons=true)
-
+</p>
 
