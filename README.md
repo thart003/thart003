@@ -31,7 +31,7 @@
  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_3pkMcbzRtnwIXPV6YVFfZjHLnVmJaVbFeA&usqp=CAU"/>
 </a>
 <a href="https://www.linkedin.com/in/taylorhart003/">
- <img src="https://images.unsplash.com/photo-1611944212129-29977ae1398c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bGlua2VkaW4lMjBsb2dvfGVufDB8fDB8fA%3D%3D&w=1000&q=80"/>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png"/>
 </a>
 
 ![Taylor's GitHub stats](https://github-readme-stats.vercel.app/api?username=thart003&theme=kacho_ga&show_icons=true)
