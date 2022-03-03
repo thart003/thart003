@@ -2,7 +2,7 @@
 [![MasterHead](https://www.dualshockers.com/static/uploads/2022/02/brilliant-stars-charizard-1140x641.jpg)](github.com/thart003)
 
 <p align="center">
- I'm a full-stack software developer who also writes fictional novels. I'm a creative person who has identified software development as the most fulfilling career path after meeting lots of people already established in the industry. I love to work in teams to create dynamic, beautiful and functional computer applications.
+ I'm a full-stack software developer who also writes fictional novels. I'm a creative person who has identified software development as the most fulfilling career path after meeting lots of people already established in the industry. It's an industry that I believe in, filled with people that I want to be around. I love to work in teams to create dynamic, beautiful and functional computer applications.
 </p>
 
 <h2 align="center">Technology Stack <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3HLbBAh4SeIPQj6jHzYSVy77B50sYplL4SA&usqp=CAU" width="50"></h2>
