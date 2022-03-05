@@ -1,5 +1,5 @@
 
-[![MasterHead](https://mocah.org/uploads/posts/4527179-digital-art-pixel-art-pixelated-pixels-nature-landscape-asian-architecture-temple-trees-forest-stones-stairs-orange.png)](github.com/thart003)
+[![MasterHead](https://i.imgur.com/ZWhG9Fz.png)](github.com/thart003)
 
 <p align="center">
  I'm a full-stack software developer who also writes fictional novels. I'm a creative person who has identified software development as the most fulfilling career path after meeting lots of people already established in the industry. It's an industry that I believe in, filled with people that I want to be around. I love to work in teams to create dynamic, beautiful and functional computer applications.
