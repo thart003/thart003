@@ -25,9 +25,6 @@
 </p>
 
 
-
-<p align="center">
-
 <p align="center">
  
 ![Taylor's GitHub stats](https://github-readme-stats.vercel.app/api?username=thart003&theme=kacho_ga&show_icons=true)
