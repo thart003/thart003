@@ -27,12 +27,7 @@
 <h2 align="center">Reach me on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
 <p align="center">
-<a href="mailto: thart003@ucr.edu">
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpytI_ZUw-F00qnoJfvSoW0sWIj3zJHb0M1nD6dBc4YrAKkd1ynpHfsX7rsZeegl-hJKw&usqp=CAU"/>
-</a>
-<a href="https://www.linkedin.com/in/taylorhart003/">
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZmT0xGr1uxOsx4Vrc78rgG8XKo4IYhOHgbA&usqp=CAU"/>
-</a>
+
 <p align="center">
  
 ![Taylor's GitHub stats](https://github-readme-stats.vercel.app/api?username=thart003&theme=kacho_ga&show_icons=true)
