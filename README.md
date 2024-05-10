@@ -8,7 +8,7 @@
 <h2 align="center">Technology Stack <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3HLbBAh4SeIPQj6jHzYSVy77B50sYplL4SA&usqp=CAU" width="50"></h2>
 
 <p align="center">
- <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+ 
 
 
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
