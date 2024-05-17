@@ -1,5 +1,5 @@
 
-[![MasterHead](https://i.pinimg.com/736x/66/ce/8b/66ce8bbf7d40869cd1de1f8a138809d5.jpg)](github.com/thart003)
+<h2 align='center'>[![MasterHead](https://i.pinimg.com/736x/66/ce/8b/66ce8bbf7d40869cd1de1f8a138809d5.jpg)](github.com/thart003)</h2>
 
 <p align="center">
  Data Engineer. ETL. Database. AWS.
